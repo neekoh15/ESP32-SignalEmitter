@@ -23,8 +23,8 @@
 
 #define PORT 443
 #define URL "YOUR DATABASE FIREBASE URL.json"
-#define USERNAME  "YOUR USERNAME" 
-#define PASSWORD "YOUR PASSWORD"
+#define USERNAME  "YOUR FIREBASE USERNAME" 
+#define PASSWORD "YOUR FIREBASE PASSWORD"
 #define DOSPI 2*3.14159265 // 2*PI
 
 #define STACK_SIZE 1024*8   //tal vez no sea lo optimo pero con esta cantidad de memoria el core Lector funciona, con *2 no.
